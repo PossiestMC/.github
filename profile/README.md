@@ -22,4 +22,4 @@
 | Contact | Profile |
 | ------------ | ------- |
 
-| Email | [mathias@teammat.co](mathias@teammat.co) |
+| Email | mathias@teammat.co |
